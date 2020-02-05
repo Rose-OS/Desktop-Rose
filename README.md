@@ -1,6 +1,6 @@
 ## Desktop
 
-A Linux distribution that emphasizes customization while maintaining ease of use and minimalism.
+An ooperating system that emphasizes customization while maintaining ease of use and minimalism.
 
 ## Releases
 
