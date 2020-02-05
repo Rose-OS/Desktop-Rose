@@ -9,18 +9,13 @@ _start: #code entry point
     movvb $0x0e, %ah
     int $0x10
 
-    #print letter 'l'
-    movb 'l', %al
+    #print letter 'r'
+    movb 'r', %al
     movb $0x0e, %ah
     int $0x10
 
     #print letter 'e'
     movb 'e', %al
-    movb $0x0e, %ah
-    int $0x10
-
-    #print letter 'a'
-    movb 'a', %al
     movb $0x0e, %ah
     int $0x10
 
@@ -29,8 +24,8 @@ _start: #code entry point
     movb $0x0e, %ah
     int $0x10
 
-    #print letter 'e'
-    movb 'e', %al
+    #print letter 's'
+    movb 's', %al
     movb $0x0e, %ah
     int $0x10
 
@@ -40,12 +35,13 @@ _start: #code entry point
     int $0x10
 
     /* second word */
-    #print letter 'p'
+    #print letter 'a'
     movb 'p', %al
     movb $0x0e, %ah
     int $0x10
 
-    #print letter 
+    #print letter 'n'
+    movb 'r', 
 
     . = _start + 510 #mov to 510th byte from 0 pos
     .byte 0x55 #append boot signature   
