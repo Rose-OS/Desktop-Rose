@@ -6,6 +6,8 @@
 :pull
 :: begin to function "pull"
 git pull
+echo Pulled succesfully,
+echo You should see the changes!
 :: call function "pull"
 goto pull
 
