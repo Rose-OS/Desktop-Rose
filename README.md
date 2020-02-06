@@ -4,11 +4,10 @@ An operating system (linux distribution) that emphasizes customization while mai
 
 ## Releases
 
-- Pre-Release RCL (see below):
+- Pre-Release RoseBootLoader (see below):
 Excpected release: 2/8/2020 (unknown date)
 
-- RCL:
-**R**ose **C**ommand **L**ine
+- Rose Boot Loader:
 Expected release: 2/10/2020 (or sooner)
 
 - Rose 1:

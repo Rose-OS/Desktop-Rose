@@ -1,4 +1,4 @@
-.code16 #generate 16-bit code
+.code16
 .text #execute code location
     .globl _start;
 _start:
