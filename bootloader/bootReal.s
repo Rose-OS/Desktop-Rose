@@ -1,31 +1,34 @@
+#generate 16-bit code
 .code16
-.text #execute code location
-    .globl _start;
+
+#hint the assembler that here is the executable code located
+.text
+.globl _start;
+#boot code entry
 _start:
+      jmp _boot                           #jump to boot code
+      welcome: .asciz "Hello, World\n\r"  #here we define the string
 
-    jmp _boot #jump to boot code
-    welcome: .asciz "Press any key to continue.\n\r" #define string
+     .macro mWriteString str              #macro which calls a function to print a string
+          leaw  \str, %si
+          call .writeStringIn
+     .endm
 
-    .macro mWriteString str #macro which calls a function to print a string
-        leaw \str, %si
-        call .writeStringIn
-    .endm
-
-    #function to print the string
-    .writeStringIn:
-        lodsb
-        orb %al, %al
-        jz .writeStringOut
-        movb $0x0e, %ah
-        int $0x10
-        jmp .writeStringIn
-    .writeStringOut:
-    ret
+     #function to print the string
+     .writeStringIn:
+          lodsb
+          orb  %al, %al
+          jz   .writeStringOut
+          movb $0x0e, %ah
+          int  $0x10
+          jmp  .writeStringIn
+     .writeStringOut:
+     ret
 
 _boot:
-    mWriteString welcome
+     mWriteString welcome
 
-    /* end of file */
-    . = _start + 510 #mov to 510th byte from 0 pos
-    .byte 0x55 #append boot signature
-    .byte 0xaa #append boot signature
+     #move to 510th byte from the start and append boot signature
+     . = _start + 510
+     .byte 0x55
+     .byte 0xaa
