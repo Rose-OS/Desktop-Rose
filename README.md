@@ -19,9 +19,10 @@ A Linux Distrubution named from a flower that symbolizes romance (and hopefully 
 ## Documentation
 TBD
 
+## Contributing:
+[Contribution Guidelines](https://github.com/Rose-OS/Desktop-Rose/blob/master/CONTRIBUTING.md)
+
+
 ## Discord Server (if want to join)
 
 [Join the server](https://discord.gg/zGXPsdY)
-
-## Contributing:
-[Contribution Guidelines](https://github.com/Rose-OS/Desktop-Rose/blob/master/CONTRIBUTING.md)
