@@ -10,10 +10,11 @@ An operating system (linux distribution) that emphasizes customization while mai
 4. Simple/Inclusive drivers/driver setup
 5. Modularity
 6. Compatiblity and Interchangeability
+7. Performance while maintaining convention
 
 ## What is RoseOS?
 
-A Linux Distrubution named from a flower that symbolizes romance (and hopefully the romance you'll have with this distro ;)).
+A Linux Distrubution named from a flower that symbolizes romance (and hopefully the romance you'll have with this distro ;) ).
 
 ## Discord Server (if want to join)
 
