@@ -1,0 +1,8 @@
+# Ignore .o files
+# in bootloader directory
+bootloader/bootReal.o
+bootloader/bootreal1.o
+bootloader/bootreal2.o
+# ignore .o files
+# in build directory
+bootloader/build/bootreal.o
