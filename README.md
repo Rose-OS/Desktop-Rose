@@ -13,7 +13,7 @@ An operating system (linux distribution) that emphasizes customization while mai
 
 ## What is RoseOS?
 
-Linux, but 1 distro, and is based off of a flower (didn't know what else)
+A Linux Distrubution named from a flower that symbolizes romance (and hopefully the romance you'll have with this distro ;)).
 
 ## Discord Server (if want to join)
 
