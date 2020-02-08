@@ -26,7 +26,15 @@ _start:
      ret
 
 _boot:
+     xor %ax, %ax
+     mov %ax, %ds      # Initialize the DS segment to zero
+     mov %ax, %ss      # Set the stack pointer below bootloader at 0x0000:0x7c00
+     mov $0x7c00, %sp
+     cld               # Clear Direction Flag (DF=0) to set forward movement on string
+                       # instructions
+
      mWriteString welcome
+     jmp .             # Enter an infinite loop to stop executing code beyond this point
 
      #move to 510th byte from the start and append boot signature
      . = _start + 510
