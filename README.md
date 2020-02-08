@@ -17,9 +17,11 @@ An operating system (linux distribution) that emphasizes customization while mai
 A Linux Distrubution named from a flower that symbolizes romance (and hopefully the romance you'll have with this distro ;)).
 
 ## Documentation
+
 TBD
 
 ## Contributing:
+
 [Contribution Guidelines](https://github.com/Rose-OS/Desktop-Rose/blob/master/CONTRIBUTING.md)
 
 
