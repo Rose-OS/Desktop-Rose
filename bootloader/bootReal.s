@@ -7,7 +7,7 @@
 #boot code entry
 _start:
       jmp _boot                           #jump to boot code
-      welcome: .asciz "Hello, World\n\r"  #here we define the string
+      welcome: .asciz "Welcome to RoseOS!\n\r"  #here we define the string
 
      .macro mWriteString str              #macro which calls a function to print a string
           leaw  \str, %si
