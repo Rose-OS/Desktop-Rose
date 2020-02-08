@@ -1,4 +1,4 @@
-## Desktop
+## ![logo](https://github.com/Rose-OS/Desktop-Rose/blob/master/RoseOS%20logo.png?raw=true) Desktop
 
 An operating system (linux distribution) that emphasizes customization while maintaining ease of use and minimalism.
 
