@@ -8,6 +8,7 @@
 _start:
       jmp _boot                           #jump to boot code
       welcome: .asciz "Welcome to RoseOS!\n\r"  #here we define the string
+      greet: .asciz "Press any key to continue\n\r"
 
      .macro mWriteString str              #macro which calls a function to print a string
           leaw  \str, %si
@@ -34,6 +35,7 @@ _boot:
                        # instructions
 
      mWriteString welcome
+     mWriteString greet
      jmp .             # Enter an infinite loop to stop executing code beyond this point
 
      #move to 510th byte from the start and append boot signature
