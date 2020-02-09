@@ -1,3 +1,3 @@
 # Contribution
 
-Just clone repo: `git clone https://github.com/Rose-OS/Desktop-Rose` and start!
+Just clone the repo: `git clone https://github.com/Rose-OS/Desktop-Rose` and start!
