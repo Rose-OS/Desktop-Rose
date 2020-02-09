@@ -25,6 +25,6 @@ TBD
 [Contribution Guidelines](https://github.com/Rose-OS/Desktop-Rose/blob/master/CONTRIBUTING.md)
 
 
-## Discord Server (if want to join)
+## Discord Server
 
 [Join the server](https://discord.gg/zGXPsdY)
