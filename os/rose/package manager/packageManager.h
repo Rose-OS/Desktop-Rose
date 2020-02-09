@@ -21,6 +21,8 @@ typedef struct Packages {
 } Packages;
 
 // Functions
+
+// The example package function
 void examplePackage(char name[], float mbSize, char author[]){
     // This is just an example, and not anything else
     // Do not use this in any of the real packages,
@@ -30,12 +32,18 @@ void examplePackage(char name[], float mbSize, char author[]){
     Packages package1;
     name = package1.name;
     author = package1.author;
+    mbSize = package1.mbSize; // Anything else,
+    // is stuff that we do not need
+
     // Error handling
     if (name == " " || name == ""){
         printf("Fatal: No name of package");
     } else { /* Nothing, just continue in the code */ }
-
     if (mbSize < 0){
         printf("Fatal: Negative size of package.");
-    }
+    } else { }
+    if (author == " " || author == ""){
+
+    } else { }    
 }
+
