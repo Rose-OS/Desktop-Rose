@@ -5,9 +5,12 @@
 // Linux imports
 
 
-// Actual (this dir) imports
-#include "packageManager.h"
-#include "getPackages.h"
+// Actual (package manager dir) imports
+#include "package manager\packageManager.h"
+#include "package manager\getPackages.h"
+
+// Actual (kernel dir) imports
+
 
 // External functions (calling, etc)
 

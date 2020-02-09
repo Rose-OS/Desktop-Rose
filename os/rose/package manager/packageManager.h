@@ -19,3 +19,6 @@ typedef struct Packages {
 } Packages;
 
 // Functions
+void example(char name[], float mbSize){
+    
+}
