@@ -27,4 +27,4 @@ TBD
 
 ## Discord Server
 
-[Join the Discord server!](https://discord.gg/zGXPsdY)
+[Join the Discord Server!](https://discord.gg/zGXPsdY)
