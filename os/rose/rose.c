@@ -10,7 +10,7 @@
 #include "package manager\getPackages.h"
 
 // Actual (kernel dir) imports
-
+#include "implementation.h"
 
 // External functions (calling, etc)
 
