@@ -5,9 +5,10 @@
 // Linux imports
 
 
+// Soon this'll be important
 // Actual (package manager dir) imports
-#include "package manager\packageManager.h"
-#include "package manager\getPackages.h"
+// #include "packageManager.h"
+// #include "getPackages.h"
 
 // Actual (kernel dir) imports
 #include "implementation.h"
@@ -17,5 +18,6 @@
 
 // Main function
 int main(){
-    printf("Hi RoseOS");
+    // TODO: Add code
+    return 0;
 }
