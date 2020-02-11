@@ -1,6 +1,6 @@
 ## ![logo](https://raw.githubusercontent.com/Rose-OS/Desktop-Rose/master/rose1.png) Rose-OS
 
-An operating system (linux distribution) that emphasizes customization while maintaining ease of use and minimalism.
+A linux distrobution that emphasizes customization while maintaining ease of use and minimalism.
 
 ## Philosophies
 
