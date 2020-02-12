@@ -1,1 +1,3 @@
-language: assembly
+language: c #the language
+compiler:
+  - gcc
