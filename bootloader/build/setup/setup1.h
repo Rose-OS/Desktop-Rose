@@ -9,7 +9,9 @@ typedef struct Criteria {
     float size; // Size (in mb)
 } Criteria;
 
-
+typedef struct Package {
+    char name[90]; // Name of package
+} Package;
 
 void example(Criteria criteria1){
     Criteria criteria1; // create instance of criteria
@@ -23,5 +25,4 @@ void example(Criteria criteria1){
     } else { ret; }
     if (criteria1.name == null){
         ret;
-    } else { }
 }
