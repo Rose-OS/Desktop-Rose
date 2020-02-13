@@ -16,7 +16,7 @@ start:
     jmp $ ; Jump here - infinite loop!
  
  
-    msg db 'RoseOS is Starting... Please wait ', 0
+    msg db 'RoseOS is Starting... Please wait for the OS to load ', 0
  
  
 .print_string: ; Routine: output string in SI to screen
