@@ -25,4 +25,8 @@ void example(Criteria criteria1){
     } else { ret; }
     if (criteria1.name == null){
         ret;
+    } else {}
+    if (criteria1.size < 0){
+        printf("illegal size");
+    } else { ret; }
 }
