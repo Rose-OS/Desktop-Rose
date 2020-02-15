@@ -1,7 +1,0 @@
-language: c #the language
-compiler:
-  - gcc
-
-langauge: assembly
-compiler:
-  - nasm
