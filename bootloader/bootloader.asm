@@ -19,7 +19,7 @@ start:
     msg db 'RoseOS [ ]\nMemtest86+[ ]\nLFS[ ] ', 0
  
  
-.print: ; Routine: output string in SI to screen
+print: ; Routine: output string in SI to screen
     mov ah, 0Eh ; int 10h 'print char' function
  
 .repeat:
