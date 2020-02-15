@@ -11,15 +11,15 @@ start:
  
  
     mov si, msg ; Put string position into SI
-    call print_string ; Call our string-printing routine
+    call print ; Call our string-printing routine
  
     jmp $ ; Jump here - infinite loop!
  
  
-    msg db 'RoseOS is Starting... Please wait for the OS to load ', 0
+    msg db 'RoseOS [ ]\nMemtest86+[ ]\nLFS[ ] ', 0
  
  
-.print_string: ; Routine: output string in SI to screen
+.print: ; Routine: output string in SI to screen
     mov ah, 0Eh ; int 10h 'print char' function
  
 .repeat:
@@ -31,15 +31,6 @@ start:
  
 .done:
     ret ; return back to where this was called
- 
- .loadFile:
-
-        mov ebx, 0
-
-.mainLoadFile:
-    ; wouldn't be called if there is an error
-    mov ebx, 0
-    mov eax, 2
 
 ; we exit out of the start
 ; function to give boot sector
