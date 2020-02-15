@@ -1,0 +1,7 @@
+{
+    "instructions": {
+        "first": "as bootloader.s -o bootloader.o",
+        "second": "ld -Ttext=0x7c00 -o file.tmp boot.bin",
+        "third": "objcopy -O binary file.tmp boot.bin"
+    }
+}
