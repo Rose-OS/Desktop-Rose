@@ -29,4 +29,4 @@ TBD
 
 ## Discord Server
 
-[Join the Discord Server!](https://discord.gg/zGXPsdY)
+[Join the Discord Server!](https://discord.gg/Mr7UEwg)
