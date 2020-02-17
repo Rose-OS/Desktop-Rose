@@ -2,7 +2,7 @@ Build Status: [![Build Status](https://travis-ci.com/Rose-OS/Desktop-Rose.svg?br
 
 ## ![logo](https://github.com/Rose-OS/Desktop-Rose/blob/master/images/rose1.png) Rose-OS
 
-A linux distrobution that emphasizes customization while maintaining ease of use and minimalism.
+A linux distribution that emphasizes customization while maintaining ease of use and minimalism.
 
 ## Philosophies
 
@@ -30,3 +30,29 @@ TBD
 ## Discord Server
 
 [Join the Discord Server!](https://discord.gg/Mr7UEwg)
+
+## Checklist
+
+
+|    Thing      |  Description  | Done?  |
+| ------------- |:-------------:| -----: |
+|   GNU GRUB    | GNU GRUB Boot |NOT DONE|
+
+
+## Installation:
+
+REQUIREMENTS (install the following):
+1. balenaEtcher (to burn disc image)
+2. blank USB (4.0+ GB is preffered, but any size will do)
+3. Patience
+
+How to install RoseOS:
+1. Download disk image from releases (as of 2/17/2020, coming soon)
+2. Download balenaEtcher
+3. Format (if not empty) USB
+4. Select image
+5. Press `flash!`
+6. Turn off fast boot and secure boot in BIOS (when done with flashing)
+7. reboot the PC from the flash drive
+8. Go through installation.
+9. Enjoy your journey in RoseOS!
