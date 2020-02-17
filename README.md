@@ -37,3 +37,24 @@ TBD
 |    Thing      |  Description  | Done?  |
 | ------------- |:-------------:| -----: |
 |   GNU GRUB    | GNU GRUB Boot |NOT DONE|
+
+
+## How to install?
+So, you've finally decided to install RoseOS! Congratulations
+Here is how you can install it.
+
+REQUIREMENTS (install the following):
+1. balenaEtcher (to burn disc image)
+2. blank USB (4.0+ GB is preffered, but any size will do)
+3. Patience
+
+How to install RoseOS:
+1. Download disk image from releases (as of 2/17/2020, coming soon)
+2. Download balenaEtcher
+3. Format (if not empty) USB
+4. Select image
+5. Press `flash!`
+6. Turn off fast boot and safe boot in BIOS (when done with flashing)
+7. reboot the PC from the flash drive
+8. Go through installation.
+9. Done!
