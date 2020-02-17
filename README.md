@@ -40,7 +40,7 @@ TBD
 
 
 ## How to install?
-So, you've finally decided to install RoseOS! Congratulations
+So, you've finally decided to install RoseOS! Congratulations!
 Here is how you can install it.
 
 REQUIREMENTS (install the following):
