@@ -39,9 +39,7 @@ TBD
 |   GNU GRUB    | GNU GRUB Boot |NOT DONE|
 
 
-## How to install?
-So, you've finally decided to install RoseOS! Congratulations!
-Here is how you can install it.
+## Installation:
 
 REQUIREMENTS (install the following):
 1. balenaEtcher (to burn disc image)
