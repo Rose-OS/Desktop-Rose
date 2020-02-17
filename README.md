@@ -2,7 +2,7 @@ Build Status: [![Build Status](https://travis-ci.com/Rose-OS/Desktop-Rose.svg?br
 
 ## ![logo](https://github.com/Rose-OS/Desktop-Rose/blob/master/images/rose1.png) Rose-OS
 
-A linux distrobution that emphasizes customization while maintaining ease of use and minimalism.
+A linux distribution that emphasizes customization while maintaining ease of use and minimalism.
 
 ## Philosophies
 
