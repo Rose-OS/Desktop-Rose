@@ -16,7 +16,7 @@ A linux distrobution that emphasizes customization while maintaining ease of use
 
 ## What is RoseOS?
 
-A Linux Distrubution named from a flower that symbolizes romance (and hopefully the romance you'll have with this distro ;)).
+A Linux Distribution named from a flower that symbolizes romance (and hopefully the romance you'll have with this distro ;)).
 
 ## Documentation
 
