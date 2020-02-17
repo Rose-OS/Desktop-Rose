@@ -55,4 +55,4 @@ How to install RoseOS:
 6. Turn off fast boot and safe boot in BIOS (when done with flashing)
 7. reboot the PC from the flash drive
 8. Go through installation.
-9. Done!
+9. Enjoy your journey in RoseOS!
