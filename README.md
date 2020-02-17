@@ -33,8 +33,7 @@ TBD
 
 ## Checklist
 
-|----------------------------------|
-|  Item  |   Description  | Status |
-|----------------------------------|
-|GNU GRUB|Re-do bootloader|Not done|
-|----------------------------------|
+
+|    Thing      |  Description  | Done?  |
+| ------------- |:-------------:| -----: |
+|   GNU GRUB    | GNU GRUB Boot |NOT DONE|
