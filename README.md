@@ -42,7 +42,6 @@ TBD
 
 1. balenaEtcher (to burn disc image)
 2. blank USB (4.0+ GB is preffered, but any size will do)
-3. Patience
 
 ## Installation:
 
