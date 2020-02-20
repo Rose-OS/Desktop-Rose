@@ -37,6 +37,8 @@ TBD
 |    Thing      |  Description  | Done?  |
 | ------------- |:-------------:| -----: |
 |   GNU GRUB    | GNU GRUB Boot |NOT DONE|
+| ------------- |:-------------:| -----: |
+|    Kernel     |    kernel     |NOT DONE|
 
 
 ## Installation:
