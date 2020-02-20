@@ -1,6 +1,6 @@
 Build Status: [![Build Status](https://travis-ci.com/Rose-OS/Desktop-Rose.svg?branch=master)](https://travis-ci.com/Rose-OS/Desktop-Rose)
 
-## ![logo](https://github.com/Rose-OS/Desktop-Rose/blob/master/images/rose1.png) Rose-OS
+## ![logo](https://github.com/Rose-OS/Desktop-Rose/blob/master/images/rose1.png) [Rose-OS](https://rose-os.github.io/Website-Rose/)
 
 A linux distribution that emphasizes customization while maintaining ease of use and minimalism.
 
@@ -39,15 +39,13 @@ TBD
 |   GNU GRUB    | GNU GRUB Boot |NOT DONE|
 |    Kernel     |    kernel     |NOT DONE|
 
+## Dependencies
+
+1. balenaEtcher (to burn disc image)
+2. blank USB (4.0+ GB is preffered, but any size will do)
 
 ## Installation:
 
-REQUIREMENTS (install the following):
-1. balenaEtcher (to burn disc image)
-2. blank USB (4.0+ GB is preffered, but any size will do)
-3. Patience
-
-How to install RoseOS:
 1. Download disk image from releases (as of 2/17/2020, coming soon)
 2. Download balenaEtcher
 3. Format (if not empty) USB
