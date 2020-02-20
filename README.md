@@ -2,7 +2,7 @@ Build Status: [![Build Status](https://travis-ci.com/Rose-OS/Desktop-Rose.svg?br
 
 ## ![logo](https://github.com/Rose-OS/Desktop-Rose/blob/master/images/rose1.png) 
 
-![text-logo](images/rose-os.svg)
+## ![text-logo](images/rose-os.svg)
 
 [Rose-OS](https://rose-os.github.io/Website-Rose/) 
 
