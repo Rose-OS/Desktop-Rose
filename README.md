@@ -38,7 +38,7 @@ TBD (will be on website)
 |    Job        |  Description                       | Completion Status |
 | ------------- |:-------------:                     | -----:            |
 |   GNU GRUB    | GNU GRUB Bootloader implementation | NOT DONE          |
-|    Kernel     |    linux kernel implementation     | NOT DONE          | 
+|    Kernel     |    Linux Kernel integration        | NOT DONE          | 
 
 ## Dependencies
 
