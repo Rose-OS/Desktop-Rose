@@ -1,6 +1,8 @@
 Build Status: [![Build Status](https://travis-ci.com/Rose-OS/Desktop-Rose.svg?branch=master)](https://travis-ci.com/Rose-OS/Desktop-Rose)
 
-## ![logo](https://github.com/Rose-OS/Desktop-Rose/blob/master/images/rose1.png) [Rose-OS](https://rose-os.github.io/Website-Rose/) ![text-logo](images/rose-os.svg)
+## ![logo](https://github.com/Rose-OS/Desktop-Rose/blob/master/images/rose1.png) 
+![text-logo](images/rose-os.svg)
+[Rose-OS](https://rose-os.github.io/Website-Rose/) 
 A linux distribution that emphasizes customization while maintaining ease of use and minimalism.
 
 ## Philosophies
