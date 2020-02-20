@@ -35,10 +35,10 @@ TBD (will be on website)
 ## Checklist
 
 
-|    Job        |  Description  | Completion Status |
-| ------------- |:-------------:| -----:            |
-|   GNU GRUB    | GNU GRUB Boot | NOT DONE          |
-|    Kernel     |    kernel     | NOT DONE          | 
+|    Job        |  Description                       | Completion Status |
+| ------------- |:-------------:                     | -----:            |
+|   GNU GRUB    | GNU GRUB Bootloader implementation | NOT DONE          |
+|    Kernel     |    linux kernel implementation     | NOT DONE          | 
 
 ## Dependencies
 
