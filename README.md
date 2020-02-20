@@ -20,7 +20,7 @@ A Linux Distribution named from a flower that symbolizes romance (and hopefully 
 
 ## Documentation
 
-TBD
+TBD (will be on website)
 
 ## Contributing:
 
