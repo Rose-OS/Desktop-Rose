@@ -1,5 +1,3 @@
-
-
 ## ![logo](https://github.com/Rose-OS/Desktop-Rose/blob/master/images/rose1.png) ![text-logo](images/rose-os.svg) 
 
 ### [Rose-OS](https://rose-os.github.io/Website-Rose/) 
