@@ -34,10 +34,10 @@ TBD (will be on website)
 ## Checklist
 
 
-|    Thing      |  Description  | Done?  |
-| ------------- |:-------------:| -----: |
-|   GNU GRUB    | GNU GRUB Boot |NOT DONE|
-|    Kernel     |    kernel     |NOT DONE|
+|    Job        |  Description  | Completion Status |
+| ------------- |:-------------:| -----:            |
+|   GNU GRUB    | GNU GRUB Boot |NOT DONE           |
+|    Kernel     |    kernel     |NOT DONE           | 
 
 ## Dependencies
 
