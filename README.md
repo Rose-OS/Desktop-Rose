@@ -36,8 +36,8 @@ TBD (will be on website)
 
 |    Job        |  Description  | Completion Status |
 | ------------- |:-------------:| -----:            |
-|   GNU GRUB    | GNU GRUB Boot |NOT DONE           |
-|    Kernel     |    kernel     |NOT DONE           | 
+|   GNU GRUB    | GNU GRUB Boot | NOT DONE          |
+|    Kernel     |    kernel     | NOT DONE          | 
 
 ## Dependencies
 
