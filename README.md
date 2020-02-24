@@ -29,7 +29,7 @@ TBD
 
 ## Discord Server
 
-[Join the Discord Server!]
+(Join the Discord Server!)[https://discord.gg/H594cUt]
 
 ## Checklist
 
